@@ -12,3 +12,8 @@
 
 # Debug files
 *.dSYM/
+
+# Ignore executables (no extension)
+*
+!*/
+!*.*
