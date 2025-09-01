@@ -1,0 +1,14 @@
+# Object files
+*.o
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Compiled binary files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
